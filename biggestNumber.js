@@ -1,3 +1,5 @@
+// find biggest value in the array
+
 function findBiggest(arr) {
     let biggestNumber;
     if (arr == undefined){

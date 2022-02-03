@@ -1,3 +1,5 @@
+// reverse array 
+
 const friends = ["Harry", "Ron", "Snap"];
 const reversed_friends = [];
 
